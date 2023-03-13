@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  negrochart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-12T20:08:27.504611-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 501ca7eaea498f154cebf5a31d25beedac32e287c3536b7ba46800a215cd134f
+    name: negrochart
+    type: application
+    urls:
+    - charts/negrochart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-12T20:08:27.503964-04:00"
